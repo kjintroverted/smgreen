@@ -1,0 +1,39 @@
+{
+  "name": "Sarah Green",
+  "banner": "https://media.discordapp.net/attachments/518602442200580097/802653821037707264/unknown.png?width=1409&height=1060",
+  "resume": "https://docs.google.com/document/d/1Ma0k617bN_Wdggud2VU6wS5F71qYgMlHsuIejblNDAQ/edit?usp=sharing",
+  "headline": "Communicator. Advocate.",
+  "bio": "My great passion in life is effective communication. I have seen it change lives personally, professionally, and in nonprofit work.  It is not often counted as one of the most important metrics of success and so it is underutilized, but when given time and attention can impact every sphere of life.  My other defining character trait is a desire for things to be done the right way. I believe there is a right way and I am always eager to learn about and support that way.",
+  "edu": [
+    {
+      "title": "Bachelor of Science in Communications",
+      "img": "https://media.discordapp.net/attachments/518602442200580097/802642003417497631/unknown.png",
+      "desc": "I spent four and a half years at Kennesaw State University studying Communication with a focus on PR and a minor in Marketing. I learned much in the arts of promotion, persuasion, and how to put your org's best foot forward."
+    },
+    {
+      "title": "Lead Institute of Atlanta - Certified Executive Director.",
+      "img": "https://media.discordapp.net/attachments/518602442200580097/802662069056438292/1519896596197.png",
+      "desc": "While at Saving Susan Ministry they sent me to a 10 month course created to equip Executive Directors for their role. Nonprofit leaders rarely lack passion or mission but often need help with daily effective strategy and execution. Industry experts taught classes on board management, accounting basics, strategic planning, effective fundraising, and more.  It was a wealth of knowledge I still refer back to in my volunteer and consulting pursuits."
+    }
+  ],
+  "xp": [
+    {
+      "title": "Ministry Coordinator for Saving Susan Ministry.",
+      "img": "https://media.discordapp.net/attachments/518602442200580097/802649024183926844/unknown.png?width=1409&height=1054",
+      "desc": "Saving Susan pairs orphans in Guatemala and Cambodia with family sponsors in the US and Canada, but with a twist. I managed all communication for the organization, partnerships in and out of the country, donor support, volunteer coordination, policy and procedure creation, board meetings, event planning, trip planning, program creation and maintenance, and more. It was a whirlwind two years with a lot of on the job training; a truly life changing experience."
+    },
+    {
+      "title": "Two marketing internships with Allied Integrated Marketing.",
+      "img": "https://media.discordapp.net/attachments/518602442200580097/802649543258406912/unknown.png",
+      "desc": "This job is one of the best jobs a college marketing student can have.  My coworkers and I learned under the biggest movie studios in the industry. We were assigned a slated movie and a demographic. Our task was to promote the movie to our given demographic. We could plan promotional stunts, hand out pre-screening tickets, give away branded merch and more.  It was always a thrill with a few celebrity sightings along the way"
+    },
+    {
+      "title": "Disney College Program.",
+      "img": "https://media.discordapp.net/attachments/518602442200580097/802648072571322368/unknown.png?width=1409&height=1107",
+      "desc": "For me, there is no corporation so amazing as the Walt Disney Company.  It was a dream and an honor to be accepted, to be trained, and to work for my favorite company.  Five months there would have been enough but then they promoted me to be a trainer. I received further training on  Disney's process and expectations. The standards Disney has for operations and service, especially within Disney Parks, is stellar. To be allowed to teach and share that standard was a gift I will never forget."
+    }
+  ],
+  "contact": [
+    "msb9009@gmail.com"
+  ]
+}
