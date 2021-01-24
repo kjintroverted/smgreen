@@ -89,7 +89,7 @@ export const Section = styled.div`
       color: ${ THEME.secondary };
       position: absolute;
       margin: 0px;
-      margin-top: -51px;
+      margin-top: -50px;
     }
   }
 `
